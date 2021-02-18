@@ -1,0 +1,2 @@
+# ScoreBoard
+Short JS Project
